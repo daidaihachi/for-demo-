@@ -1,5 +1,5 @@
 # for-demo-
-Those program files are for demo.  
+Those program files are for demo.  項目をクリックして、出てくる画面で、上部のRUNボタンを押してみて下さい。プログラムが動きます
 自作したプログラムのデモ用  
 (1)[亀のレース](https://replit.com/@daidaihachi/turtle-race-game#main.py)  
 (2)[暗記用タイマー](https://replit.com/@daidaihachi/pomodoro#main.py)  
